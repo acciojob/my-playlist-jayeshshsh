@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204,204,204);
+}
+.main{
+	background-color:#cccccc;
+}
+h1, h2{
+		text-align:center;
+}
+.player_one{
+	background-color:white;
+	box-sizing:border-box;
+	margin:10px;
+	border:1px solid black;
+}
+li a{
+	text-decoration:none;
+}
+ul{
+	list-style-type:none;
+	padding:0px;
+	margin:5px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.player_two{
+	box-sizing:border-box;
+	background-color:white;
+	justify-content:center;
+	align-item:center;
+	max-width:400px;
+	brder:1px solid black;
+}
+.video, .audio{
+	width:390px;
+	text-align:center;
+	justify-content:center;
+	align-item:center;
+}
